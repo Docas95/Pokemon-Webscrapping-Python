@@ -1,0 +1,7 @@
+1
+Bulbasaur
+Grass|Poison
+A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.
+1. Overgrow|Chlorophyll (hidden ability)
+45|49|49|65|65|45
+https://img.pokemondb.net/artwork/large/bulbasaur.jpg
